@@ -6,3 +6,4 @@ Built as a tool for exploratory learning and testing, the app will offer a strea
 Whether used for academic research, ethical inquiry, or just entertaining banter with models of varied “personalities,” the app facilitates deeper understanding of model design, limitations, and conversational affordances—one SMS at a time.
 
 
+WIP
